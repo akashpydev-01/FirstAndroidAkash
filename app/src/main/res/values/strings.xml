@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="add_project">Add Project</string>
+    <string name="edit_project">Edit Project</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="category">Category</string>
+    <string name="client">Client</string>
+    <string name="year">Year</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="pick_images">+ Add Images</string>
+    <string name="pick_videos">+ Add Videos</string>
+</resources>
